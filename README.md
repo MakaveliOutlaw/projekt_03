@@ -46,15 +46,6 @@ V souboru CSV jsou obsaženy tyto informace:
 - **Platné hlasy**
 - **Kandidující strany** 
 
-# Ukázka výstupu v souboru CSV:
 
-Kód obce	Název obce	Voliči v seznamu	Vydané obálky	Platné hlasy	
-569828	Babice	165	109	108	
-569836	Barchov	227	141	140	21
-569852	Běleč nad Orlicí	269	207	206	38	
-569861	Benátky	93	67	67	9	
-569879	Blešno	322	227	227	53	
-569887	Boharyně	470	297	297	20	
-569917	Černilov	1901	1234	1226	150	
 
 
