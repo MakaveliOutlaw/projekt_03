@@ -57,8 +57,4 @@ Kód obce	Název obce	Voliči v seznamu	Vydané obálky	Platné hlasy
 569887	Boharyně	470	297	297	20	
 569917	Černilov	1901	1234	1226	150	
 
-# Výstupu v terminálu
 
-✅ Načteno 104 obcí.
-
-✅ Výsledky uloženy do vysledky_hradec_kralove.csv
