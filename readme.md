@@ -1,11 +1,8 @@
 # Elections Scraper
 
-Jedná se o Python skript, který scrapuje výsledky voleb do Poslanecké sněmovny ČR z roku 2017, přes vybraný uzemní celek, odkaz: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ, kde např X u Hradec Králové odkazuje sem: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=8&xnumnuts=5201 
-
-# Funkce
-
+Jedná se o Python skript, který scrapuje výsledky voleb do Poslanecké sněmovny ČR z roku 2017.
 Stahuje data z jednotlivých obcí ve vybraném územním celku.
-Ukládá výsledky do souboru CSV
+Výsledky ukládá do souboru CSV.
 
 # Pokyny k instalaci
 
@@ -28,7 +25,7 @@ Ukládá výsledky do souboru CSV
 
 # Spuštění skriptu
 
-Ke spustní jsou vyžadovány 2 agrumenty:
+Ke spuštění jsou vyžadovány 2 agrumenty:
 
 1. **URL adresa vybraného územního celku** — odkaz na stránku se seznamem obcí naleznete zde: https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ, pomocí odkazů ve sloupci Výběr okrsku - symbol X.
 
@@ -63,4 +60,5 @@ Kód obce	Název obce	Voliči v seznamu	Vydané obálky	Platné hlasy
 # Výstupu v terminálu
 
 ✅ Načteno 104 obcí.
+
 ✅ Výsledky uloženy do vysledky_hradec_kralove.csv
